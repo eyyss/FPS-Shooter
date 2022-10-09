@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523096f9025bb1647ab59496e342297a, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  ItemName: Rifle
+  Type: 1
+  damage: 40
+  ammoInGun: 80
+  ammoInPocket: 20
+  addableAmmo: 20
+  HandItemPrefab: {fileID: 4740635489490497056, guid: c472b4d1a0058f94dbb3b6ab2fba29fc,
+    type: 3}
+  PlaneItemPrefab: {fileID: 4964176751719522687, guid: 3a024612841c1014899a19ff87d49a94,
+    type: 3}
